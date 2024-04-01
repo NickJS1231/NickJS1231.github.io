@@ -12,7 +12,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://bowen.finance/" class="btn btn--info">Portfolio</a>  
   <br>
   <a href="https://github.com/NickJS1231">GitHub</a>  
-  <br>
 
   
 theme: jekyll-theme-minimal
