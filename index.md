@@ -1,9 +1,7 @@
 ## About Me
 
-What's up? hey\|you
 
-I am an awesome student at Lehigh, you should hire me!
-
+Junior at the Lehigh University College of Business studying finance and business analytics. Social Impact Research Fellow associated with the Lehigh University Creative Inquiry Program, Lehigh Consulting Group Director of Education, and founder/president of Lehigh University’s Management Club. Distinguished experience in financial theory, financial accounting, data analytics/statistical analysis, leadership, communications, and managing teams. Interested in opportunities in consulting, banking, wealth management and corporate finance.
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
