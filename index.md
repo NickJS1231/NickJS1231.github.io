@@ -1,7 +1,7 @@
 ## About Me
 
 
-Junior at the Lehigh University College of Business studying finance and business analytics. Senior social Impact Research Fellow associated with the Lehigh University Creative Inquiry Program, Lehigh Consulting Group Director of Education, and founder/president of Lehigh University’s Management Club. Distinguished experience in financial theory, financial accounting, data analytics/statistical analysis, leadership, communications, and managing teams. Interested in opportunities in consulting, banking, wealth management and corporate finance.
+Junior at the Lehigh University College of Business studying finance and business analytics. Senior social Impact Research Fellow associated with the Lehigh University Creative Inquiry Program, Lehigh Consulting Group Director of Education, and founder/president of Lehigh University’s Management Club. Distinguished experience in financial theory, financial accounting, data analytics/statistical analysis, leadership, communications, and managing teams. Interested in opportunities in the financial services industry including asset management and financial services consulting.
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
@@ -29,14 +29,14 @@ Or: The process that created this page can be used to show off your whole midter
 
 ---
 
-_**[Eventual team project](https://donbowen.github.io/teamproject/)**_
+_**[Data Science for Finance Group Project: Assesing the Effects of Thematic Investing and Risk on Portfolio Utility](https://portfolio-utility-dashboard-nick0keisha0leo.streamlit.app/)**_
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-_**[Some personal project](/pdf/sample_presentation.pdf)**_
-
+_**[Research With the Department of Management and Creative Inquiry](https://creativeinquiry.lehigh.edu/impact-fellowships/lehigh-valley-social-impact-fellowship/lv-creative-entrepreneurs)**_
+**[Mentions and Accomplishments](https://www2.lehigh.edu/news/cultivating-a-thriving-environment-for-creative-entrepreneurship-in-the-lehigh-valley#:~:text=To%20build%20a%20supportive%20framework,the%20Office%20of%20Creative%20Inquiry.)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
