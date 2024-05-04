@@ -28,7 +28,8 @@ _**[Data Science for Finance Group Project: Assesing the Effects of Thematic Inv
 ---
 
 _**[Research With the Department of Management and Creative Inquiry](https://creativeinquiry.lehigh.edu/impact-fellowships/lehigh-valley-social-impact-fellowship/lv-creative-entrepreneurs)**_ <br>
-_**[Mentions and Accomplishments](https://www2.lehigh.edu/news/cultivating-a-thriving-environment-for-creative-entrepreneurship-in-the-lehigh-valley#:~:text=To%20build%20a%20supportive%20framework,the%20Office%20of%20Creative%20Inquiry.)**_
+_**[Mentions and Accomplishments](https://www2.lehigh.edu/news/cultivating-a-thriving-environment-for-creative-entrepreneurship-in-the-lehigh-valley#:~:text=To%20build%20a%20supportive%20framework,the%20Office%20of%20Creative%20Inquiry.)**_ <br> <br>
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
