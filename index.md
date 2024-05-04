@@ -21,14 +21,6 @@ You can show off your midterm analysis by moving the report components and outpu
 
 ---
 
-_**[Regression Practice](Regression_practice)**_
-
-Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
 _**[Data Science for Finance Group Project: Assesing the Effects of Thematic Investing and Risk on Portfolio Utility](https://portfolio-utility-dashboard-nick0keisha0leo.streamlit.app/)**_
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
