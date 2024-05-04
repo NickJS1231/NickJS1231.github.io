@@ -43,16 +43,15 @@ _**[Some personal project](/pdf/sample_presentation.pdf)**_
 
 ## Career Objectives
 
-Write what you want. 
-
-Sell yourself!
+I strive to leverage my advanced knowledge of finance and business analytics in a combined effort to make the world and the businesses that operate within it more efficient and value creating from end to end. Some specific areas of interest at the intersection of my skill sets include portfolio management, portfolio risk, corporate finance/restructuring and other quantitative fields. From natural language processing to leveraged buyout modeling, my experience allows me to provide value in a bredth of departments within the financial services industry.
 
 ---
 
 ## Hobbies
 
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
-
+- [Avid guitar player](https://www.instagram.com/nicks_guitar_fun/)
+- Weightlifter
+These are my favorite hobbies because no matter how hard you work, you can always get better at them, and as someone who is always working to better everything I do, its important, even in my leisure, that I work towards becoming a better self.
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
