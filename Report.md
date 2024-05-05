@@ -1,3 +1,6 @@
+---
+layout: wide_default
+---    
 # 10k Sentiment and Stock Returns: A Historical Analysis
 By: Nicholas Scheri Lehigh University '25, Finance and Business Analytics
 
