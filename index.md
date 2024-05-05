@@ -19,7 +19,7 @@ _**[Natural language processing 10-Ks to identify risks](Report.md)**_
 
 ---
 
-_**[Data Science for Finance Group Project: Assesing the Effects of Thematic Investing and Risk on Portfolio Utility](https://portfolio-utility-dashboard-nick0keisha0leo.streamlit.app/)**_
+_**[Data Science for Finance: Assesing the Effects of Thematic Investing and Risk Aversion on Portfolio Utility](https://portfolio-utility-dashboard-nick0keisha0leo.streamlit.app/)**_
 
 <img src="images/377FP.png?raw=true"/>
 
