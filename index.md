@@ -46,6 +46,7 @@ I strive to leverage my advanced knowledge of finance and business analytics in 
 - [Avid guitar player](https://www.instagram.com/nicks_guitar_fun/)
 - Weightlifter
 These are my favorite hobbies because no matter how hard you work, you can always get better at them, and as someone who is always working to better everything I do, its important, even in my leisure, that I work towards becoming a better self.
+
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
