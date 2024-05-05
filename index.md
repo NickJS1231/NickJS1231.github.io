@@ -15,8 +15,6 @@ Junior at the Lehigh University College of Business studying finance and busines
 
 _**[Natural language processing 10-Ks to identify risks](Report.md)**_
 
-You can show off your midterm analysis by moving the report components and output into this file. Or...
-
 <img src="images/output_23_0.png?raw=true"/>
 
 ---
